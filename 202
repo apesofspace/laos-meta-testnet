@@ -1,13 +1,13 @@
 {
     "attributes": [
         {
-            "trait_type": "Apes of Space VX",
-            "value": "Unrevealed"
-        }
+            "trait_type": "Weed Avatar",
+            "value": "Unrevealed" 
+        
     ],
-    "description": "The Sandbox Premium Partner. 6x6 ESTATE. Public mint: April 19th. Apes of Space VX is an NFT ticket that provides access for players to explore unique game experiences. Earn $SAND tokens and other exclusive rewards!",
-    "animation_url": "https://apesofspace.com/aos-vx-unrevealed.mp4",
-    "external_url": "https://apesofspace.com",
-    "image_url": "https://apesofspace.com/aos-vx-unrevealed.png",
-    "name": "Apes of Space VX #7776"
+    "description": "Description of Weed Avatar Collection. Description of Weed Avatar Collection. Description of Weed Avatar Collection. Description of Weed Avatar Collection. Description of Weed Avatar Collection.",
+    "animation_url": "https://viewer-3d-apesofspace.herokuapp.com/weed-avatar-1",
+    "external_url": "https://weedavatar.com",
+    "image_url": "https://i.imgur.com/uZWuR3k.png",
+    "name": "Weed Avatar #1"
 }
