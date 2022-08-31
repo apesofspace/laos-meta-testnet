@@ -1,13 +1,14 @@
 {
     "attributes": [
         {
-            "trait_type": "Lady Apes Of Space",
-            "value": "Unrevealed"
+            "trait_type": "Weed Avatar",
+            "value": "Unrevealed" 
         }
+        
     ],
-    "description": "Apes Of Space holders will be able to free mint Lady Apes Of Space from the 17th December. 1:1 Ratio of Apes to Lady Apes, if you own 5 original Apes, you can free mint 5 Lady Apes. (Just pay gas). There will be no public sale, these are limited solely to Apes Of Space holders.",
-    "external_url": "https://apesofspace.com",
-    "image_url": "https://apesofspace.com/ladyapesofspace.png",
-    "name": "Lady Apes Of Space #204"
-    }
-    
+    "description": "Description of Weed Avatar Collection. Description of Weed Avatar Collection. Description of Weed Avatar Collection. Description of Weed Avatar Collection. Description of Weed Avatar Collection.",
+    "animation_url": "https://viewer-3d-apesofspace.herokuapp.com/weed-avatar-1",
+    "external_url": "https://weedavatar.com",
+    "image_url": "https://i.imgur.com/uZWuR3k.png",
+    "name": "Weed Avatar #1"
+}
